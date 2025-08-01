@@ -141,9 +141,9 @@ GAI tools cannot be used to generate or modify content in ways that harm others,
 
 ## HR and legal compliance
 
-- [Company]'s use of GAI tools is subject to laws that have jurisdiction in Illinois and other places where [Company] has employees or does business.
+- [Company]'s use of GAI tools is subject to laws that have jurisdiction in [Company Home State] and other places where [Company] has employees or does business.
   - Compliance concerns should be raised to [Company]'s Chief of Staff or CEOs.
-
+[For Illinois firms only]
 - [Company] is subject to the requirements of the Illinois Human Rights Act with regard to AI and GAI usage. [Company] employees are hereby notified that AI and/or GAI may be used in connection with employment decisions following regulations and guidance issued by the Illinois Department of Human Rights (DHR).
   - Effective on or before January 1, 2026, AI and GAI tools will not be used in connection with "recruitment, hiring, promotion, renewal of employment, selection for training or apprenticeship, discharge, discipline, tenure, or the terms, privileges, or conditions of employment" in a way that subjects an employee to any discrimination based on either their protected class(es) or their zip code.
   - The Illinois Human Rights Act defines AI as "a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments". Generative AI is defined as "an automated computing system that, when prompted with human prompts, descriptions, or queries, can produce outputs that simulate human-produced content, including, but not limited to, the following: 1) textual outputs, such as short answers, essays, poetry, or longer compositions or answers; 2) image outputs, such as fine art, photographs, conceptual art, diagrams, and other images; 3) multimedia outputs, such as audio or video in the form of compositions, songs, or short-form or long-form audio or video; and 4) other content that would be otherwise produced by human means"
